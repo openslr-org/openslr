@@ -64,15 +64,15 @@
                     $comment = (count($f_array) > 1 ? $f_array[1] : '');
                     $size = $resource->get_file_size($file);
 		    $hostname = gethostname();
-	            if ($hostname == "surfingtech") {
+	            if ($hostname == "magicdatatech") {
 		       print "<p class=\"resource\"> <b>Download:</b> ";
-		       print "<a href=\"http://cn-mirror.openslr.org/resources/$id/$file\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
+		       print "<a href=\"http://openslr.magicdatatech.com/resources/$id/$file\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
 		       $file_url="http://www.openslr.org/resources/$id/$file";
                        print "<a href=\"$file_url\"> [US] </a> &nbsp; <br> </p> \n";
 	            } else {
 		       print "<p class=\"resource\"> <b>Download:</b> ";
 		       print "<a href=\"http://www.openslr.org/resources/$id/$file\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		       $file_url="http://cn-mirror.openslr.org/resources/$id/$file";
+		       $file_url="http://openslr.magicdatatech.com/resources/$id/$file";
                        print "<a href=\"$file_url\"> [China] </a> &nbsp; <br> </p>\n";
 		    }
                  } elseif (count($resource->files) > 1) {
@@ -82,15 +82,15 @@
                        $size = $resource->get_file_size($file);
 		       $comment = (count($f_array) > 1 ? $f_array[1] : '');
 		       $hostname = gethostname();
-		       if ($hostname == "surfingtech") {
-                         $file_url="http://cn-mirror.openslr.org/resources/$id/$file";
+		       if ($hostname == "magicdatatech") {
+                         $file_url="http://openslr.magicdatatech.com/resources/$id/$file";
                          print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
 		         $file_url="http://www.openslr.org/resources/$id/$file";
                          print "<a href=\"$file_url\"> [US] </a> &nbsp; <br> \n";
 		       } else {
                          $file_url="http://www.openslr.org/resources/$id/$file";
                          print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		         $file_url="http://cn-mirror.openslr.org/resources/$id/$file";
+		         $file_url="http://openslr.magicdatatech.com/resources/$id/$file";
                          print "<a href=\"$file_url\"> [China] </a> &nbsp; <br> \n";
 		       }
                     }
