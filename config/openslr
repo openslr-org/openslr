@@ -1,5 +1,5 @@
 <VirtualHost *:80>
-	ServerAdmin dpovey@gmail.com
+	ServerAdmin jtrmal@gmail.com
 	ServerName openslr.org
 	ServerAlias www.openslr.org
 
