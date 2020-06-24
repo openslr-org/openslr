@@ -64,14 +64,14 @@
           </div>
           
         </div>
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
         <div style="clear: both"></div>
 
         <div id="footer"> 
           <p>
-	        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+	        <a href="https://jigsaw.w3.org/css-validator/check/referer">
 	          <img style="border:0;width:88px;height:31px"
-                   src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                   src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
                    alt="Valid CSS!" />
 	        </a>
           </p>
