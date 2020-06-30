@@ -1,5 +1,3 @@
-root@www:/var/www/openslr# cat /var/www/openslr/resources/80/info.txt
-
 name: Att-HACK
 summary: French Expressive Speech Database with Social Attitudes
 category: speech
