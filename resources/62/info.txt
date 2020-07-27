@@ -3,5 +3,5 @@ summary: A Chinese Mandarin speech corpus by Beijing DataTang Technology Co., Lt
 category: speech
 license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 file: aidatatang_200zh.tgz Corpus
-alternate_url: https://www.datatang.com/webfront/opensource.html
+alternate_url: https://www.datatang.com/opensource
 
