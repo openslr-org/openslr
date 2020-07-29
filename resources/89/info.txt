@@ -3,4 +3,5 @@ summary: Yolóxochitl Mixtec Speech with Transcription
 category: speech
 license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
 file: Yoloxochitl-Mixtec-Data.tgz Yolóxochitl Mixtec Speech and Transcription
-file: Yoloxochitl-Mixtec-Manifest.tgz 
+file: Yoloxochitl-Mixtec-Manifest.tgz Train-Dev-Test Split and Channel Information for Multi-channel Wave
+
