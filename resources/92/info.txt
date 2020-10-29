@@ -1,6 +1,6 @@
-name: Pueble-Nahuatl
-summary: Pueble Nahuatl Speech with Transcription
+name: Puebla-Nahuatl
+summary: Puebla Nahuatl Speech with Transcription
 category: speech
 license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
-file: Sound-Files-Pueble-Nahuatl.tgz Pueble Nahuatl Speech
-file: Pueble-Nahuatl-Manifest.tgz Manifest File of Pueble Nahuatl (e.g., Transcription, Metadata, and Field Recordings)
+file: Sound-Files-Puebla-Nahuatl.tgz Puebla Nahuatl Speech
+file: Puebla-Nahuatl-Manifest.tgz Manifest File of Puebla Nahuatl (e.g., Transcription, Metadata, and Field Recordings)
