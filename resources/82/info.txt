@@ -3,6 +3,6 @@ summary: A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua Uni
 category: Speech
 license: Attribution-ShareAlike 4.0 International
 file: cn-celeb.tgz  CN-Celeb1
-file: cn-celeb2-data1.rar  CN-Celeb2 part 1
-file: cn-celeb2-data2.rar  CN-Celeb2 part 2
+file: cn-celeb2-part1.rar  CN-Celeb2 part 1
+file: cn-celeb2-part2.rar  CN-Celeb2 part 2
 
