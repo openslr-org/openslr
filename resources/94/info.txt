@@ -1,0 +1,50 @@
+name: Multilingual LibriSpeech (MLS)
+summary: A large multilingual corpus derived from LibriVox audiobooks
+category: Speech
+license: CC BY 4.0
+
+ASR Resources
+file: mls_english.tar.gz English speech and transcripts 
+file: mls_german.tar.gz German speech and transcripts 
+file: mls_dutch.tar.gz Dutch speech and transcripts 
+file: mls_spanish.tar.gz Spanish speech and transcripts 
+file: mls_french.tar.gz French speech and transcripts 
+file: mls_italian.tar.gz Italian speech and transcripts 
+file: mls_portuguese.tar.gz Portuguese speech and transcripts 
+file: mls_polish.tar.gz Polish speech and transcripts 
+
+LM Resources
+file: mls_lm_englsh.tar.gz English LM corpus
+file: mls_lm_german.tar.gz German LM corpus
+file: mls_lm_dutch.tar.gz Dutch LM corpus
+file: mls_lm_spanish.tar.gz Spanish LM corpus
+file: mls_lm_french.tar.gz French LM corpus
+file: mls_lm_italian.tar.gz Italian LM corpus
+file: mls_lm_portuguese.tar.gz Portuguese LM corpus
+file: mls_lm_polish.tar.gz Polish LM corpus
+
+Other Resources
+file: lv_text.tar.gz  Downloaded text from LibriVox books
+file: unrated_transcripts.tar.gz Unrated dev/test transcripts (before human rating)
+file: md5sum.txt MD5 checksums for all the archive files
+
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_english.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_german.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_dutch.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_spanish.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_french.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_italian.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_portuguese.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_polish.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_english.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_german.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_dutch.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_spanish.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_french.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_italian.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_portuguese.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/mls_lm_polish.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/lv_text.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/unrated_transcripts.tar.gz
+alternate_url: https://dl.fbaipublicfiles.com/mls/md5sum.txt
+

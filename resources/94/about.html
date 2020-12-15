@@ -1,0 +1,21 @@
+<h3> Note: most of the data (due to it's size) is not hosted on OpenSLR -- please use the external URLs to download </h3>
+
+This paper introduces Multilingual LibriSpeech (MLS) dataset, a large multilingual corpus suitable for speech research. The dataset is derived from read audiobooks from LibriVox and consists of 8 languages - English, German, Dutch, Spanish, French, Italian, Portuguese, Polish.
+For each language, we provide two separate .tar.gz files: 
+1. mls_[language].tar.gz : Train, dev and test sets. Also, includes small training set for limited supervision (10hr, 1hr or 10 minutes of labelled speech). 
+2. mls_lm_[language].tar.gz : Language modelling corpus. 
+More details on these files and their directory structure can be found in README files included in the .tar.gz files. 
+You can cite the data using the following BibTeX entry: 
+<pre>
+@inproceedings{Pratap2020,
+  author={Vineel Pratap and Qiantong Xu and Anuroop Sriram and Gabriel Synnaeve and Ronan Collobert},
+  title={{MLS: A Large-Scale Multilingual Dataset for Speech Research}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020},
+  pages={2757--2761},
+  doi={10.21437/Interspeech.2020-2826},
+  url={http://dx.doi.org/10.21437/Interspeech.2020-2826}
+}
+</pre>
+NOTE: We have made few updates to the MLS dataset after our INTERSPEECH paper was submitted to include more #hours and also improve the quality of transcripts. To avoid confusion (by having multiple versions), we are making ONLY one release with all the improvements included. For accurate dataset statistics and baselines, please refer to the arXiv paper - https://arxiv.org/abs/2012.03411 .
+
