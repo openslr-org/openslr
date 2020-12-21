@@ -162,7 +162,7 @@
 <p><a href="https://dl.fbaipublicfiles.com/mls/md5sum.txt">md5sum.txt</a></p>
 
 
-<p>All the above links are hosted AWS S3 bucket and can be downloaded using AWS CLI tools as well. To get the S3 bucket path of an URL, replace the <code>https://dl.fbaipublicfiles.com/</code> with <code>s3://dl.fbaipublicfiles.com/</code>. <br/>For example, the public URL of <code>https://dl.fbaipublicfiles.com/mls/mls_polish.tar.gz</code> is <code>s3://dl.fbaipublicfiles.com/mls/mls_polish.tar.gz</code>.</p>
+<p>All the above links are hosted AWS S3 bucket and can be downloaded using <a href="https://aws.amazon.com/cli/">AWS CLI</a> tools as well. For downloading using AWS CLI tools, create an AWS account, put the credentials in the CLI tools and all the resources can be downloaded for free. To get the S3 bucket path of an URL, replace <code>https://dl.fbaipublicfiles.com/</code> with <code>s3://dl.fbaipublicfiles.com/</code>. For example, the S3 bucket path of URL <code>https://dl.fbaipublicfiles.com/mls/mls_polish.tar.gz</code> is <code>s3://dl.fbaipublicfiles.com/mls/mls_polish.tar.gz</code>.</p>
 
 
 <p>More details on these files and their directory structure can be found in README files included in the .tar.gz files.</p>
@@ -170,17 +170,15 @@
 <p>You can cite the data using the following BibTeX entry:</p>
 
 <pre>
-@inproceedings{Pratap2020,
+@article{Pratap2020MLSAL,
+  title={MLS: A Large-Scale Multilingual Dataset for Speech Research},
   author={Vineel Pratap and Qiantong Xu and Anuroop Sriram and Gabriel Synnaeve and Ronan Collobert},
-  title={{MLS: A Large-Scale Multilingual Dataset for Speech Research}},
-  year=2020,
-  booktitle={Proc. Interspeech 2020},
-  pages={2757--2761},
-  doi={10.21437/Interspeech.2020-2826},
-  url={http://dx.doi.org/10.21437/Interspeech.2020-2826}
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2012.03411}
 }
 </pre>
 
-<p>NOTE: We have made few updates to the MLS dataset after our INTERSPEECH paper was submitted to include more #hours and also improve the quality of transcripts. To avoid confusion (by having multiple versions), we are making ONLY one release with all the improvements included. For accurate dataset statistics and baselines, please refer to the arXiv paper - <a href="https://arxiv.org/abs/2012.03411">https://arxiv.org/abs/2012.03411</a>.</p>
+<p>NOTE: We have made few updates to the MLS dataset after our <a href="https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2826.pdf">INTERSPEECH paper</a> was submitted to include more #hours and also improve the quality of transcripts. To avoid confusion (by having multiple versions), we are making ONLY one release with all the improvements included. For accurate dataset statistics and baselines, please refer to the arXiv paper - <a href="https://arxiv.org/abs/2012.03411">https://arxiv.org/abs/2012.03411</a>.</p>
 
 <p><sup>*</sup> This resource can also be downloaded in parts from the 100GB splits - <a href="https://dl.fbaipublicfiles.com/mls/mls_english_parts_list.txt">mls_english_parts_list.txt</a> and <a href="https://dl.fbaipublicfiles.com/mls/mls_english_opus_parts_list.txt">mls_english_opus_parts_list.txt</a> for the original and compressed versions respectively. After downloading all the splits, run `cat` on the files to create a single tar file and verify the md5 checksum. </p>
