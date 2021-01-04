@@ -1,0 +1,6 @@
+name: Thorsten Müller (TTS)
+summary: Free single german speaker dataset (> 23 hours) by Thorsten Müller (voice) and Dominik Kreutz (audio optimization) for tts training
+category: speech
+license: Creative Commons (CC0) Licence
+file: thorsten-de_v02.tgz  German speech and transcripts
+alternate_url: https://github.com/thorstenMueller/deep-learning-german-tts/ Free german "thorsten" dataset
