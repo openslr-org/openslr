@@ -1,0 +1,5 @@
+name: Russian LibriSpeech (RuLS)
+summary: This dataset is based on LibriVox audiobooks
+category: Speech
+license: The dataset is Public Domain in the USA. 
+file: ruls_data.tar.gz  Russian speech and transcripts
