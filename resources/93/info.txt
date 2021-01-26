@@ -1,0 +1,6 @@
+name: AISHELL-3
+summary: Mandarin data, provided by Beijing Shell Shell Technology Co., Ltd.
+category: Speech
+license: Apache License v.2.0
+file: data_aishell3.tgz speech data and transcripts
+alternate_url: http://www.aishelltech.com/aishell_3 Full description from the company website.

@@ -1,7 +1,7 @@
 name: Yoloxóchitl-Mixtec
 summary: Yolóxochitl Mixtec Speech with Transcription
 category: speech
-license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
+license: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
 file: Yoloxochitl-Mixtec-Data.tgz Yolóxochitl Mixtec Speech and Transcription
 file: Yoloxochitl-Mixtec-Manifest.tgz Train-Dev-Test Split and Channel Information for Multi-channel Wave
-
+file: Novice-Transcription-Correction.zip Data for Novice Transcription Correction (Mixtec speech data with novice transcription and expert correction)

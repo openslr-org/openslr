@@ -1,0 +1,5 @@
+name: Multilingual LibriSpeech (MLS)
+summary: A large multilingual corpus derived from LibriVox audiobooks
+category: Speech
+license: CC BY 4.0
+

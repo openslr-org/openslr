@@ -1,0 +1,11 @@
+74cbb837e582378c26c602e1c8cbcb9c  3-gram.arpa.gz
+9a0f1325bcaf3a0f7b7be4be10823c2a  3-gram.pruned.1e-7.arpa.gz
+8f67ec741827742eee05799ab7605b50  3-gram.pruned.3e-7.arpa.gz
+6abdcd5b055bd482e4f9defe91d40408  4-gram.arpa.gz
+67167ece2487b4b24147c821455143e0  about.html
+28c93cbf85274a5b59a602f9e1f52869  g2p-model-5
+637a652be2a235beb27f0972da4a2b68  info.txt
+28f72663f6bfed7cd346283c064c315b  librispeech-lexicon.txt
+fb7f9ff25536b60b90bc1d0715c5ec80  librispeech-lm-corpus.tgz
+c83c64c726a1aedfe65f80aa311de402  librispeech-lm-norm.txt.gz
+bf3cc7a50112831ed8b0afa40cae96a5  librispeech-vocab.txt

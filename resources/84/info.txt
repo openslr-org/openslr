@@ -3,4 +3,5 @@ summary: Dutch cursive, 16-18th century handwritings, pages and lines, for (un)s
 category: Handwriting
 license: CC-BY-NC-ND (details in LICENSE.txt)
 file: scribblelens.corpus.v1.2.zip  Dutch historical handwritings
+file: scribblelens.supplement.original.pages.tgz Supplement data (mostly hires images of the previous)
 

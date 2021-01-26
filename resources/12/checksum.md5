@@ -1,0 +1,14 @@
+c989c596e76fe53fabca29d30805bfb4  about.html
+42e2234ba48799c1f50f24a7926300a1  dev-clean.tar.gz
+c8d0bcc9cca99d4f8b62fcc847357931  dev-other.tar.gz
+951cbdf929053c642e0be46c84b728b6  info.txt
+92ba57a9611a70fd7d34b73249ae48cf  intro-disclaimers.tar.gz
+5311866a1582672ac30785e61cdb0af7  md5sum.txt
+9da96b465573c8d1ee1d5ad3d01c08e3  original-books.tar.gz
+7e14b6df14f1c04a852a50ba5f7be915  original-mp3.tar.gz
+25eced105e10f4081585af89b8d27cd2  raw-metadata.tar.gz
+32fa31d27d2e1cad72775fee3f4849a9  test-clean.tar.gz
+fb5a50374b501bb3bac4815ee91d3135  test-other.tar.gz
+2a93770f6d5c6c964bc36631d331a522  train-clean-100.tar.gz
+c0e676e450a7ff2f54aeade5171606fa  train-clean-360.tar.gz
+d1a0fd59409feb2c614ce4d30c387708  train-other-500.tar.gz
