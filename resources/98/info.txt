@@ -1,0 +1,6 @@
+root@www:/var/www/openslr# cat /var/www/openslr/resources/6/info.txt
+name: Deeply parent-child vocal interaction dataset
+summary: The interaction of pairs of parent and child(reading fairy tales, singing children’s songs, conversing, and others).Recorded in 3 types of places, at 3 distinct distances, with 2 types of smartphone.
+category: Speech
+license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+file: Parent-ChildVocalInteraction.tar.gz  Parent-child vocal interaction dataset
