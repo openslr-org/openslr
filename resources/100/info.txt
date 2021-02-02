@@ -1,0 +1,25 @@
+name: Multilingual TEDx
+summary: a multilingual corpus of TEDx talks for speech recognition and translation
+category: speech
+license: Creative Commons Attribution-NonCommercial-NoDerivs 4.0 (CC BY-NC-ND 4.0)
+file: mtedx_es.tgz  Spanish speech and transcripts
+file: mtedx_fr.tgz  French speech and transcripts
+file: mtedx_pt.tgz  Portuguese speech and transcripts
+file: mtedx_it.tgz  Italian speech and transcripts
+file: mtedx_ru.tgz  Russian speech and transcripts
+file: mtedx_el.tgz  Greek speech and transcripts
+file: mtedx_ar.tgz  Arabic speech and transcripts
+file: mtedx_de.tgz  German speech and transcripts
+file: mtedx_es-en.tgz  Spanish speech and transcripts with aligned English translations
+file: mtedx_es-fr.tgz  Spanish speech and transcripts with aligned French translations
+file: mtedx_es-it.tgz  Spanish speech and transcripts with aligned Italian translations
+file: mtedx_es-pt.tgz  Spanish speech and transcripts with aligned Portuguese translations
+file: mtedx_fr-en.tgz  French speech and transcripts with aligned English translations
+file: mtedx_fr-es.tgz  French speech and transcripts with aligned Spanish translations
+file: mtedx_fr-pt.tgz  French speech and transcripts with aligned Portuguese translations
+file: mtedx_pt-en.tgz  Portuguese speech and transcripts with aligned English translations
+file: mtedx_pt-es.tgz  Portuguese speech and transcripts with aligned Spanish translations
+file: mtedx_it-en.tgz  Italian speech and transcripts with aligned English translations
+file: mtedx_it-es.tgz  Italian speech and transcripts with aligned Spanish translations
+file: mtedx_ru-en.tgz  Russian speech and transcripts with aligned English translations
+file: mtedx_el-en.tgz  Greek speech and transcripts with aligned English translations
