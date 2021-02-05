@@ -1,0 +1,5 @@
+name: Kazakh Speech Corpus (KSC)
+summary: A crowdsourced open-source Kazakh speech corpus developed by ISSAI (330 hours)
+category: speech
+license: Attribution 4.0 International (CC BY 4.0)
+file: ISSAI_KSC_335RS_v1.1_flac.tar.gz speech, transcripts and metadata
