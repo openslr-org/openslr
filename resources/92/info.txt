@@ -13,3 +13,5 @@ file: Sound-Files-Pueble-Nahuatl.tgz.part06 Part 06 of the speech archive
 file: Sound-Files-Pueble-Nahuatl.tgz.part07 Part 07 of the speech archive
 file: Sound-Files-Pueble-Nahuatl.tgz.part08 Part 08 of the speech archive
 file: Sound-Files-Pueble-Nahuatl.tgz.part09 Part 09 of the speech archive
+file: SpeechTranslation_Nahuatl_Manifest.tgz Manifest Additional file of Puebla Nahuatl (Transcription and corresponding Spanish translation)
+file: Totonac_Corpus.tgz Totonac Corpus (Sound files and Transcription of Totonac Corpus)
