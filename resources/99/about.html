@@ -1,0 +1,61 @@
+<ul>
+    <li>Volume(full set): ~0.6(~57) hours, ~800(~70,000) utterances, ~500(~1500) speakers</li>
+    <li>Format: 16kHz, 16-bit, mono</li>
+    <li>Device: Android phones</li>
+</ul>
+
+<p>
+The Vocal Characterizer Dataset is <b>a human nonverbal vocalization dataset</b> crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance.<br>
+16 classes of Included human nonverbal sound contain <b>'teeth-chattering', teeth-grinding', 'tongue-clicking', 'nose-blowing', 'coughing', 'yawning', 'throat clearing', 'sighing', 'lip-popping', 'lip-smacking', 'panting', 'crying', 'laughing', 'sneezing', 'moaning', and 'screaming'.</b>
+</p>
+
+<p>
+The dataset is a subset(approximately 1%) of a much bigger dataset 
+which were recorded under the same environment as this public dataset. <br>
+Please visit our website <a href = "http://deeplyinc.com">Deeply Inc.</a>, <a href = "https://github.com/deeplyinc/Vocal-Characterizer-Dataset">GitHub</a>, or contact us for more details and access to the full set of the dataset with commercial license.
+</p>
+
+<p>
+Deeply makes products that anyone can use with audio AI technology and makes people's lives happier with those products. For more products and services, please visit <a href = "http://deeplyinc.com">Deeply Inc.</a>.
+</p>
+
+<p>
+<b><strong>Structure</strong></b>
+
+<pre>
+VocalCharacterizer.json
+
+{"teeth-chattering": 
+                    {"87LX_0_6_0_19_0_0_0.wav": 
+                                               {"label": 0, "speakerID": "87LX", "age": 19, "sex": 0, "location": 0, "quality": 0, "noise": 0},
+                                               ...
+                    }
+                    ...
+...
+}
+
+<i><u>label</u></i>   : {0: 'teeth-chattering', 1: 'teeth-grinding', 2: 'tongue-clicking', 3: 'nose-blowing', 
+           4: 'coughing', 5: 'yawning', 6: 'throat-clearing', 7: 'sighing', 8: 'lip-popping', 
+           9: 'lip-smacking', 10: 'panting', 11: 'crying', 12: 'laughing', 13: 'sneezing', 14: 'moaning', 15: screaming'}
+<i><u>Sex</u></i>     : {0: 'Female', 1: 'Male'}
+<i><u>Location</u></i>: {0: 'indoor', 1: 'outdoor'}
+<i><u>Quality</u></i> : {0: 'High', 1: 'Low'}
+<i><u>Noise</u></i>   : {0: 'Noiseless', 1: 'Noisy'}
+</pre>
+</p>
+
+You can cite the data as follows:
+<pre>
+@misc{deeply_vocal_char,
+  title={{Deeply vocal characterizer dataset}},
+  author={Deeply Inc.},
+  year={2021},
+  url={https://github.com/deeplyinc/Vocal-Characterizer-Dataset}
+}
+</pre>
+<p>
+    <b><strong>Contact</b></strong><br>
+    Tel:   (+82) 70-7459-0704<br>
+    Web:   http://deeplyinc.com/<br>
+    Email: contact@deeplyinc.com<br>
+</p>

@@ -1,0 +1,5 @@
+name: Deeply vocal characterizer dataset
+summary: A human nonverbal vocalization dataset by Deeply Inc. 
+category: Audio
+license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+file: VocalCharacterizer.tar.gz  Vocal characterizer dataset

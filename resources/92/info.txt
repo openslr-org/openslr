@@ -2,15 +2,15 @@ name: Puebla-Nahuatl
 summary: Puebla Nahuatl Speech with Transcription
 category: speech
 license: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
-file: Pueble-Nahuatl-Manifest.tgz Manifest File of Pueble Nahuatl (e.g., Transcription, Metadata, and Field Recordings)
-file: Sound-Files-Pueble-Nahuatl.tgz.part00 Part 00 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part01 Part 01 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part02 Part 02 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part03 Part 03 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part04 Part 04 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part05 Part 05 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part06 Part 06 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part07 Part 07 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part08 Part 08 of the speech archive
-file: Sound-Files-Pueble-Nahuatl.tgz.part09 Part 09 of the speech archive
+file: Puebla-Nahuatl-Manifest.tgz Manifest File of Puebla Nahuatl (e.g., Transcription, Metadata, and Field Recordings)
+file: Sound-Files-Puebla-Nahuatl.tgz.part00 Part 00 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part01 Part 01 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part02 Part 02 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part03 Part 03 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part04 Part 04 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part05 Part 05 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part06 Part 06 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part07 Part 07 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part08 Part 08 of the speech archive
+file: Sound-Files-Puebla-Nahuatl.tgz.part09 Part 09 of the speech archive
 file: SpeechTranslation_Nahuatl_Manifest.tgz Manifest Additional file of Puebla Nahuatl (Transcription and corresponding Spanish translation)

@@ -1,0 +1,79 @@
+<ul>
+  <li>Recording environment: Studio apartment(moderate reverb), Dance studio(high reverb), Anechoic chamber(no reverb)</li>
+  <li>Device: iPhone x, Samsung Galaxy S7</li>
+  <li>Recording distance from the source: 0.4m, 2.0m, 4.0m</li>
+  <li>Volume(full set): ~16(~282) hours, ~20,000(~360,000) utterances, ~2(~110) GB</li>
+  <li>Format: 16kHz, 16-bit, mono</li>
+  <li>Language: Korean</li>
+</ul>
+
+<p>
+  The interaction of pairs of parent and child, such as <b>reading fairy tales, singing childre&#39;s songs, conversing, and others</b>, is recorded.<br>The recordings took place in <b>3 different types of places</b>, which are an anechoic chamber, studio apartment, and dance studio, of which the level of reverberation differs.<br>And, in order to examine the effect of the distance of mic from the source and device, every experiment is recorded at <b>3 distinct distances</b> with
+  <b>2 types of smartphone</b>, iPhone X, and Galaxy S7.
+</p>
+
+<p>
+The dataset is a subset(approximately 1%) of a much bigger dataset
+which were recorded under the same environment as this public dataset. <br>
+This sample dataset only contains only a limited amount which contains a single pair of speaker recorded in 3 places, but only at single distance.<br>
+Please visit our website <a href = "http://deeplyinc.com">Deeply Inc.</a>, <a href = "https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset">GitHub</a>, or contact us for more details and access to the full set of the dataset with commercial license.
+</p>
+
+<p>
+Deeply makes products that anyone can use with audio AI technology and makes people's lives happier with those products. For more products and services, please visit <a href = "http://deeplyinc.com">Deeply Inc.</a>.
+</p>
+
+<p>
+<b><strong>Structure</strong></b>
+<pre>
+Parent_Child_Vocal_Interaction.json
+
+{'AirbnbStudio': 
+                {'sub30040a00000': {'wavfile': 'sub3004_2020_11_29_01_35_0_0_0.wav',
+                                    'label': 2,
+                                    'subjectID': 'sub3004',
+                                    'speaker': 'a',
+                                    'age': 39,
+                                    'sex': 0,
+                                    'noise': 0,
+                                    'location': 0,
+                                    'distance': 0,
+                                    'device': 0,
+                                    'rms': 0.005859313067048788,
+                                    'length': 1.521},
+                  ...
+                  },
+...
+}
+<i><u>Label</u></i>     : {speaker a(parent): {0: singing, 1: reading, 2: other utterances},  
+             speaker b(child) : {0: singing, 1: reading, 2: crying, 3: refusing, 4: other utterances}}  
+<i><u>Subject ID</u></i>: Unique 'sub + 4-digit' key allocated to each subject group  
+<i><u>Speaker</u></i>   : unique key allocated to each indiivdual in the subject group.  
+<i><u>Sex</u></i>       : {0: Female, 1: Male}  
+<i><u>Noise</u></i>     : {0: Noiseless, 1: Indoor noise, 2: Outdoor noise, 3: Both indoor/outdoor noise}  
+<i><u>Location</u></i>  : {0: Studio apartment, 1: Dance studio, 2: Anechoic chamber}  
+<i><u>Distance</u></i>  : {0: 0.4m, 1: 2.0m, 2: 4.0m}
+<i><u>Device</u></i>    : {0: iPhone X, 1: Galaxy S7}  
+<i><u>Rms</u></i>       : Root mean square value of the signal  
+<i><u>Length</u></i>    : length of the signal in secods  
+
+* In polyphonic utterances, the categories, such as label, speaker,and sex, are longer than usual, because we've written the information of both speaker a and b in the same category.
+  For example, if speaker a(parent, male, 35 yo) sings and speaker b(child, female, 3 yo) trys to talk in a single audio file, *speaker* woudl be 'ab', *sex* would be '10'(male(speake a),female(speaker b)), and *label* would be'04'(singing(speaker a), other utterances(speaker b)) .
+</pre>
+</p>
+
+You can cite the data as follows:
+<pre>
+@misc{deeply_inter,
+  title={{Deeply parent-child vocal interaction dataset}},
+  author={Deeply Inc.},
+  year={2021},
+  url={https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset}
+}
+</pre>
+<p>
+    <b><strong>Contact</b></strong><br>
+    Tel:   (+82) 70-7459-0704<br>
+    Web:   http://deeplyinc.com/<br>
+    Email: contact@deeplyinc.com<br>
+</p>
