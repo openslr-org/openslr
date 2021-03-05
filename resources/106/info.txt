@@ -1,0 +1,9 @@
+name: nicolingua-0004-west-african-va-asr-corpus
+summary: West African Virtual Assistant Speech Recognition Corpus
+category: speech
+license: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+file: nicolingua-0004-west-african-va-asr-corpus.tgz
+alternate_url: https://nicolingua.s3.eu-west-2.amazonaws.com/nicolingua-0004-west-african-va-asr-corpus.tgz
+
+
+

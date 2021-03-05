@@ -1,0 +1,9 @@
+name: nicolingua-0003-west-african-radio-corpus
+summary: West African Radio Corpus
+category: speech
+license: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+file: nicolingua-0003-west-african-radio-corpus.tgz
+alternate_url: https://nicolingua.s3.eu-west-2.amazonaws.com/nicolingua-0003-west-african-radio-corpus.tgz
+
+
+
