@@ -1,0 +1,8 @@
+name: Totonac Resources
+summary: Totonac Speech with Transcription
+category: speech
+license: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+
+file: Deposit-Totonaco-for-ASR-Community.pdf Totonac Corpus Details (Descriptions and Specifics of the recordings)
+file: Amith-Lopez_Totonac-recordings-northern-Puebla-and-adjacent-Veracruz_Metadata.xml Speaker Details in xml format
+file: Totonac_Corpus.tgz Totonac Corpus (Sound files and Transcription of Totonac Corpus)
