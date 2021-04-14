@@ -1,6 +1,6 @@
 name: speechocean762
 summary: Pronunciation scoring dataset, labeled independently by five human experts
 category: speech
-license: Apache License v.2.0
+license: Attribution 4.0 International (CC BY 4.0)
 file: speechocean762.tar.gz the data
 
