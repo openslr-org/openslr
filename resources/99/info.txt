@@ -2,4 +2,4 @@ name: Deeply Nonverbal Vocalization Dataset
 summary: A human nonverbal vocal sound dataset by Deeply Inc. 
 category: Audio
 license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-file: NonverbalVocalization.tar.gz  Nonverbal Vocalization dataset 
+file: NonverbalVocalization.tgz  Nonverbal Vocalization dataset 
