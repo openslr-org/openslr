@@ -1,0 +1,14 @@
+name: MediaSpeech: Multilanguage ASR Benchmark and Dataset
+summary: French, Arabic, Turkish and Spanish media speech datasets
+category: Speech
+license: dataset is distributed under the Creative Commons Attribution 4.0 International License.
+
+file: AR.tgz  Arabic speech and transcripts
+file: ES.tgz  Spanish speech and transcripts
+file: FR.tgz  French speech and transcripts
+file: TR.tgz  Turkish speech and transcripts
+
+alternate_url: https://github.com/NTRLab/MediaSpeech/releases/download/1.1/AR.zip Arabic wav
+alternate_url: https://github.com/NTRLab/MediaSpeech/releases/download/1.1/ES.zip Spanish wav
+alternate_url: https://github.com/NTRLab/MediaSpeech/releases/download/1.1/FR.zip French wav
+alternate_url: https://github.com/NTRLab/MediaSpeech/releases/download/1.1/TR.zip Turkish wav
