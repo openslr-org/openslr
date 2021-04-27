@@ -1,5 +1,5 @@
-name: Crowdsourced high-quality Columbian Spanish speech data set.
-summary: Data set which contains recordings of Columbian Spanish.
+name: Crowdsourced high-quality Colombian Spanish speech data set.
+summary: Data set which contains recordings of Colombian Spanish.
 There are 2369 recordings from female speakers, and 2534 recordings from male
 speakers.
 category: speech
