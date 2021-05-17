@@ -1,4 +1,4 @@
-name: MediaSpeech: Multilanguage ASR Benchmark and Dataset
+name: MediaSpeech
 summary: French, Arabic, Turkish and Spanish media speech datasets
 category: Speech
 license: dataset is distributed under the Creative Commons Attribution 4.0 International License.
