@@ -1,0 +1,5 @@
+name: Hi-Fi Multi-Speaker English TTS Dataset (Hi-Fi TTS)
+summary: A multi-speaker English dataset for training text-to-speech models
+category: Speech
+license: CC BY 4.0 
+file: hi_fi_tts_v0.tar.gz  Speech and text data
