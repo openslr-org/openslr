@@ -2,7 +2,7 @@ name: CN-Celeb
 summary: A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua University
 category: Speech
 license: Attribution-ShareAlike 4.0 International
-file: cn-celeb.tgz  CN-Celeb1
-file: cn-celeb2-part1.rar  CN-Celeb2 part 1
-file: cn-celeb2-part2.rar  CN-Celeb2 part 2
-
+file: cn-celeb_v2.tar.gz Updated CN-Celeb1 and correct genre and speaker labels
+file: cn-celeb2_v2.tar.gzaa  Updated CN-Celeb2 and correct genre and speaker labels (1/3)
+file: cn-celeb2_v2.tar.gzab  Updated CN-Celeb2 and correct genre and speaker labels (2/3)
+file: cn-celeb2_v2.tar.gzac  Updated CN-Celeb2 and correct genre and speaker labels (3/3)
