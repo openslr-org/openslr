@@ -1,4 +1,4 @@
-name: Thorsten Müller (TTS)
+name: Thorsten Müller (German Neutral-TTS dataset)
 summary: Free single german speaker dataset (> 23 hours) by Thorsten Müller (voice) and Dominik Kreutz (audio optimization) for tts training
 category: speech
 license: Creative Commons (CC0) Licence
