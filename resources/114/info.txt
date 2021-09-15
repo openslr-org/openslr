@@ -1,0 +1,11 @@
+name: Golos
+summary: Russian ASR dataset (1240 hours) with trained acoustic and language models
+category: speech
+license: https://github.com/sberdevices/golos/blob/master/license/en_us.pdf
+file: golos_opus.tar.gz  Opus audio files with Russian speech and transcripts
+file: QuartzNet15x5_golos.nemo.gz  Acoustic model trained using Golos dataset
+file: kenlms.tar.gz  KenLM language models created using Russian Common Crawl corpus
+alternate_url: https://sc.link/JpD Opus audio files and transcripts with Russian speech 
+alternate_url: https://sc.link/ZMv Acoustic model trained using Golos dataset
+alternate_url: https://sc.link/YL0 KenLM language models created using Russian Common Crawl corpus
+
