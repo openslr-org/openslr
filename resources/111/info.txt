@@ -1,0 +1,9 @@
+name: AISHELL-4
+summary: A Free Mandarin Multi-channel Meeting Speech Corpus, provided by Beijing Shell Shell Technology Co.,Ltd
+category: speech
+license: CC BY-SA 4.0
+file: train_L.tar.gz  Training set of large room, 8-channel microphone array speech
+file: train_M.tar.gz  Training set of medium room, 8-channel microphone array speech
+file: train_S.tar.gz  Training set of small room, 8-channel microphone array speech
+file: test.tar.gz   Test set
+alternate_url: http://www.aishelltech.com/aishell_4  Full description from the company website
