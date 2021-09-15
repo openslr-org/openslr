@@ -27,10 +27,13 @@
         <hr/>
         <div id="rightCol">
           <div class = "contact_info">
-            <div class ="contactTitle">Contact</div>
-            <a href=mailto:dpovey@gmail.com> dpovey@gmail.com </a>  <br/>
-            Phone: 425 247 4129  <br/>
-            (Daniel Povey) <br/>
+            <?php 
+            // <div class ="contactTitle">Contact</div>
+            // <a href=mailto:dpovey@gmail.com> dpovey@gmail.com </a>  <br/>
+            // Phone: 425 247 4129  <br/>
+            // (Daniel Povey) <br/>
+ ?>
+
           </div>
         </div>
         <div id="mainContent">
