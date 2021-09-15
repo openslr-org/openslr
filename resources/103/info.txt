@@ -1,0 +1,11 @@
+name: Multilingual and code-switching ASR Challenge Dataset - sub-task1
+summary: Datasets for sub-task1 in Multilingual and code-switching ASR challenges for low resource Indian languages - MUCS 2021 (https://navana-tech.github.io/MUCS2021/)
+category: speech
+license: https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view
+file: Hindi_train.tar.gz  Hindi Train speech and transcripts
+file: Hindi_test.tar.gz  Hindi Test speech and transcripts
+file: Marathi_train.tar.gz  Marathi Train speech and transcripts
+file: Marathi_test.tar.gz  Marathi Test speech and transcripts
+file: Odia_train.tar.gz  Odia Train speech and transcripts
+file: Odia_test.tar.gz  Odia Test speech and transcripts
+file: subtask1_blindtest_wReadme.tar.gz sub-task1 Blind Test set and transcripts
