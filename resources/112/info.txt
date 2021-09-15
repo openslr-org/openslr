@@ -1,0 +1,5 @@
+name: Samromur 21.05
+summary: Samrómur Icelandic Speech corpus approved for release in May 2021
+category: speech
+license: CC BY 4.0
+file: samromur_21.05.tgz  whole corpus (includes dev and train sets)
