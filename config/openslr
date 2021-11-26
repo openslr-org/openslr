@@ -23,11 +23,11 @@
        
                 GeoIPEnable On
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(CA|US)$
-                RewriteRule ^(.*)$ http://us.openslr.org/$1 [L]
+                RewriteRule ^(.*/resources/.*)$ http://us.openslr.org/$1 [L]
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(EU|RU|IN)$
-                RewriteRule ^(.*)$ http://openslr.elda.org/$1 [L]
+                RewriteRule ^(.*/resources/.*)$ http://openslr.elda.org/$1 [L]
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(CN)$
-                RewriteRule ^(.*)$ http://openslr.magicdatatech.com/$1 [L]
+                RewriteRule ^(.*/resources/.*)$ http://openslr.magicdatatech.com/$1 [L]
     </Directory>
 
 
