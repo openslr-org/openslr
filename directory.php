@@ -61,43 +61,30 @@
                  print "<p class=\"resource\"> <b>Summary:</b> $resource->summary </p>\n";
                  print "<p class=\"resource\"> <b>Category:</b> $resource->category </p>\n";
                  print "<p class=\"resource\"> <b>License:</b> $resource->license </p>\n";
-                 if (count($resource->files) == 1) {
-                    $f_array = $resource->files[0]; // array of size 0 or 1.
-                    $file = $f_array[0];
-                    $comment = (count($f_array) > 1 ? $f_array[1] : '');
-                    $size = $resource->get_file_size($file);
-		    $hostname = gethostname();
-	            if ($hostname == "magicdatatech") {
-		       print "<p class=\"resource\"> <b>Download:</b> ";
-		       print "<a href=\"https://openslr.magicdatatech.com/resources/$id/$file\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		       $file_url="https://www.openslr.org/resources/$id/$file";
-                       print "<a href=\"$file_url\"> [US] </a> &nbsp; <br> </p> \n";
-	            } else {
-		       print "<p class=\"resource\"> <b>Download:</b> ";
-		       print "<a href=\"https://www.openslr.org/resources/$id/$file\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		       $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
-                       print "<a href=\"$file_url\"> [China] </a> &nbsp; <br> </p>\n";
-		    }
-                 } elseif (count($resource->files) > 1) {
-                    print "<p class=\"resource\"> <b>Downloads (use a mirror closer to you):</b> <br>";
+                 if (count($resource->files) >= 1) {
+                    print "<p class=\"resource\"> <b>Downloads (use a mirror closer to you):</b> <br>\n";
                     foreach ($resource->files as $f_array) {
                        $file = $f_array[0];
                        $size = $resource->get_file_size($file);
 		       $comment = (count($f_array) > 1 ? $f_array[1] : '');
 		       $hostname = gethostname();
 		       if ($hostname == "magicdatatech") {
-                         $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
-                         print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		         $file_url="https://www.openslr.org/resources/$id/$file";
-                         print "<a href=\"$file_url\"> [US] </a> &nbsp; <br> \n";
+		         $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
+		       } elseif ($hostname == "resources.elda.org") {
+		         $file_url="https://resources.elda.org/resources/$id/$file";
 		       } else {
                          $file_url="https://www.openslr.org/resources/$id/$file";
-                         print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp; Mirrors: \n";
-		         $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
-                         print "<a href=\"$file_url\"> [China] </a> &nbsp; <br> \n";
 		       }
+                       print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp;  Mirrors: \n";
+		       $file_url="https://www.openslr.org/resources/$id/$file";
+                       print "<a href=\"$file_url\"> [US] </a> &nbsp;\n";
+		       $file_url="https://resources.elda.org/resources/$id/$file";
+                       print "<a href=\"$file_url\"> [EU] </a> &nbsp;\n";
+		       $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
+	               print "<a href=\"$file_url\"> [CN] </a> &nbsp;\n";
+		       print "<br>";
                     }
-                    print '</p>';
+                    print '<br></p>';
                  }
                  print "<p class=\"resource\"><b>About this resource:</b></p>";
                  $about = $resource->get_about_html();

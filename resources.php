@@ -23,6 +23,7 @@
         <div id="topBar">
           <a class="topButtons" href="/index.html">Home</a>
           <a class="myTopButton" href="/resources.php">Resources</a>
+          <a class="topButtons" href="/contributions.html">Contribute</a>
         </div>
         <hr/>
         <div id="rightCol">
@@ -36,7 +37,7 @@
         <div id="mainContent">
 
           <div class="container" >
-	        <p><h3 class="slrStyle"> Resources </h3>
+                <p><h3 class="slrStyle"> Resources </h3>
 
               <table id="resourceTable">
                 <tr> <th> Resource </th> <th> Name </th> <th> Category </th>  <th> Summary </th> </tr>
@@ -69,11 +70,11 @@
 
         <div id="footer"> 
           <p>
-	        <a href="https://jigsaw.w3.org/css-validator/check/referer">
-	          <img style="border:0;width:88px;height:31px"
+                <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                  <img style="border:0;width:88px;height:31px"
                    src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
                    alt="Valid CSS!" />
-	        </a>
+                </a>
           </p>
         </div>
       </div>
