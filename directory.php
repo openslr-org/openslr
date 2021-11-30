@@ -71,14 +71,14 @@ if ($ok) {
             if ($hostname == "magicdatatech") {
                 $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
             } elseif ($hostname == "resources.elda.org") {
-                $file_url="https://resources.elda.org/resources/$id/$file";
+                $file_url="https://openslr.elda.org/resources/$id/$file";
             } else {
                 $file_url="https://www.openslr.org/resources/$id/$file";
             }
             print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp;  Mirrors: \n";
             $file_url="https://us.openslr.org/resources/$id/$file";
             print "<a href=\"$file_url\"> [US] </a> &nbsp;\n";
-            $file_url="https://resources.elda.org/resources/$id/$file";
+            $file_url="https://openslr.elda.org/resources/$id/$file";
             print "<a href=\"$file_url\"> [EU] </a> &nbsp;\n";
             $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
             print "<a href=\"$file_url\"> [CN] </a> &nbsp;\n";
