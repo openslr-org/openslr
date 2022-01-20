@@ -1,0 +1,5 @@
+name: Samrómur Queries 21.12
+summary: Icelandic speech focused on queries
+category: speech
+license: CC by 4.0
+file: samromur_queries_21.12.zip icelandic speech and metadata files
