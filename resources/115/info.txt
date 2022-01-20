@@ -1,7 +1,7 @@
 name: EmoV_DB
 summary: a database of emotional speech intended to be open-sourced and used for synthesis and generation purpose. It contains data for male and female actors in English (https://github.com/numediart/EmoV-DB)
 category: speech
-license: By downloading or using the EmoV-DB Dataset, you are agreeing to the “Non-commercial Purposes” condition. “Non-commercial Purposes” means research, teaching, scientific publication and personal experimentation. Non-commercial Purposes include use of the Dataset to perform benchmarking for purposes of academic or applied research publication. Non-commercial Purposes does not include purposes primarily intended for or directed towards commercial advantage or monetary compensation, or purposes intended for or directed towards litigation, licensing, or enforcement, even in part. EmoV-DB dataset is provided as-is, is experimental in nature, and not intended for use by, with, or for the diagnosis of human subjects for incorporation into a product. If you wish to make use of the EmoV-DB Dataset for Commercial Purpose, please contact <a href="https://sites.google.com/view/thierrydutoit">Prof. Thierry Dutoit</a>
+license: <a href="https://github.com/numediart/EmoV-DB/blob/master/LICENSE.md">Click here to view the license</a>
 file: bea_Amused.tar.gz
 file: bea_Angry.tar.gz
 file: bea_Disgusted.tar.gz
