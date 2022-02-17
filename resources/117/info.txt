@@ -1,0 +1,6 @@
+name: Samrómur Children 21.09
+summary: Samrómur Icelandic Speech from children (ages 4-17 years) approved for release in September 2021
+category: speech
+license: CC by 4.0
+file: samromur_children_21.09.zip icelandic speech and metadata files
+
