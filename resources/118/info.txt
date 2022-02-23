@@ -1,0 +1,19 @@
+name: 1111 Hours Hindi ASR Challenge
+summary: Datasets for 1111 Hours Hindi ASR Challenge Closed, Self Supervised Closed and Open - 2022 (https://sites.google.com/view/gramvaaniasrchallenge/home)
+category: speech
+license: https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view
+file: Gram_Vaani_Train_100.zip  Gramvaani Hindi Train set 100 hours speech and transcripts
+file: Gramvaani_Dev_5.tar.gz  Gramvaani Hindi Development set 5 hours speech and transcripts
+file: Gram_Vaani_1000hrData_Part1.zip Gramvaani Hindi 1000 hours speech only data Part1
+file: Gram_Vaani_1000hrData_Part2.zip Gramvaani Hindi 1000 hours speech only data Part2
+file: Gram_Vaani_1000hrData_Part3.zip Gramvaani Hindi 1000 hours speech only data Part3
+file: Gram_Vaani_1000hrData_Part4.zip Gramvaani Hindi 1000 hours speech only data Part4
+file: Gram_Vaani_1000hrData_Part5.zip Gramvaani Hindi 1000 hours speech only data Part5
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_Train_100.tar.gz Gramvaani Hindi Train set 100 hours speech and transcripts
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_Dev_5.tar.gz Gramvaani Hindi Development set 5 hours speech and transcripts
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part1.tar.gz Gramvaani Hindi 1000 hours speech only data Part1
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part2.tar.gz Gramvaani Hindi 1000 hours speech only data Part2
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part3.tar.gz Gramvaani Hindi 1000 hours speech only data Part3
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part4.tar.gz Gramvaani Hindi 1000 hours speech only data Part4
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part5.tar.gz Gramvaani Hindi 1000 hours speech only data Part5
+
