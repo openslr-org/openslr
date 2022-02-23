@@ -1,0 +1,9 @@
+name: AliMeeting
+summary: A Free Mandarin Multi-channel Meeting Speech Corpus, provided by Alibaba Group
+category: Speech
+license: CC BY-SA 4.0
+alternate_url: https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Train_Ali_far.tar.gz [73.24G]  (AliMeeting Train set, 8-channel microphone array speech)
+alternate_url: https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Train_Ali_near.tar.gz [22.85G]  (AliMeeting Train set, headset microphone speech)
+alternate_url: https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Eval_Ali.tar.gz [3.42G]  (AliMeeting Eval set, 8-channel microphone array speech, headset microphone speech)
+alternate_url: https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Test_Ali.tar.gz [8.90G]  (AliMeeting Test set, 8-channel microphone array speech, headset microphone speech)
+
