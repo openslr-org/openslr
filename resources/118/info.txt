@@ -10,7 +10,7 @@ file: Gram_Vaani_1000hrData_Part3.zip Gramvaani Hindi 1000 hours speech only dat
 file: Gram_Vaani_1000hrData_Part4.zip Gramvaani Hindi 1000 hours speech only data Part4
 file: Gram_Vaani_1000hrData_Part5.zip Gramvaani Hindi 1000 hours speech only data Part5
 alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_Train_100.tar.gz Gramvaani Hindi Train set 100 hours speech and transcripts
-alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_Dev_5.tar.gz Gramvaani Hindi Development set 5 hours speech and transcripts
+alternate_url: https://asr.iitm.ac.in/Gramvaani/Zip/Gram_Vaani_Dev_5.zip Gramvaani Hindi Development set 5 hours speech and transcripts
 alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part1.tar.gz Gramvaani Hindi 1000 hours speech only data Part1
 alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part2.tar.gz Gramvaani Hindi 1000 hours speech only data Part2
 alternate_url: https://asr.iitm.ac.in/Gramvaani/Gramvaani_1000hrData_Part3.tar.gz Gramvaani Hindi 1000 hours speech only data Part3
