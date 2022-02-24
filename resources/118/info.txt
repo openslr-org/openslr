@@ -3,7 +3,7 @@ summary: Datasets for 1111 Hours Hindi ASR Challenge Closed, Self Supervised Clo
 category: speech
 license: https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view
 file: Gram_Vaani_Train_100.zip  Gramvaani Hindi Train set 100 hours speech and transcripts
-file: Gramvaani_Dev_5.tar.gz  Gramvaani Hindi Development set 5 hours speech and transcripts
+file: Gram_Vaani_Dev_5.zip  Gramvaani Hindi Development set 5 hours speech and transcripts
 file: Gram_Vaani_1000hrData_Part1.zip Gramvaani Hindi 1000 hours speech only data Part1
 file: Gram_Vaani_1000hrData_Part2.zip Gramvaani Hindi 1000 hours speech only data Part2
 file: Gram_Vaani_1000hrData_Part3.zip Gramvaani Hindi 1000 hours speech only data Part3
