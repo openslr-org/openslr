@@ -1,0 +1,6 @@
+name: IISc-MILE Tamil ASR Corpus
+summary: Tamil transcribed speech corpus for ASR
+category: speech
+license: Attribution 2.0 Generic (CC BY 2.0)
+file: mile_tamil_asr_corpus.tar.gz  Tamil speech and transcripts
+
