@@ -1,0 +1,11 @@
+946eab26f38d64255ce1a1fb36279634 *samromur_unverified_22.07.z01
+a6151869209ad44edf18d7c3ad6fc224 *samromur_unverified_22.07.z02
+f6a738e32d7350adf4e15fea8a1a7371 *samromur_unverified_22.07.z03
+1e25d01ca1bef77c345b6b5059eabe53 *samromur_unverified_22.07.z04
+ca82c4d87402dc2fdd03e1d019d08c37 *samromur_unverified_22.07.z05
+1984ca305f35faa5d802852884f70649 *samromur_unverified_22.07.z06
+60bf661650292e501f89dba14c2e7fb0 *samromur_unverified_22.07.z07
+97e2601e8222277636693668c2f41aca *samromur_unverified_22.07.z08
+dcc2ca46998ceec4ccbc3c54dba27188 *samromur_unverified_22.07.z09
+9f1a7cbac890f263d992cae85fa4ebf4 *samromur_unverified_22.07.z10
+153e2b3a4b2df668a6fefddb33e0e7b1 *samromur_unverified_22.07.zip
