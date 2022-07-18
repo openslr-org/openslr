@@ -1,0 +1,10 @@
+name: BibleTTS
+summary: A large, high-fidelity, multilingual, and uniquely African speech corpus
+category: Speech
+license: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+file: akuapem-twi.tgz  Akuapem Twi speech and text
+file: asante-twi.tgz  Asante Twi speech and text
+file: ewe.tgz  Ewe speech and text
+file: hausa.tgz  Hausa speech and text
+file: lingala.tgz  Lingala speech and text
+file: yoruba.tgz  Yoruba speech and text

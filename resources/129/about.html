@@ -1,0 +1,35 @@
+<strong>BibleTTS</strong> is a large high-quality open Text-to-Speech dataset with up to 80 hours of single speaker, studio quality 48kHz recordings for each language. We release aligned speech and text for six languages spoken in Sub-Saharan Africa, with unaligned data for four additional languages, derived from the Biblica <a href="https://open.bible/">open.bible</a> project. The data is released under a commercial-friendly <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> license.
+
+<p>
+  This repository contains the data for the six aligned languages of the BibleTTS corpus (Asante Twi, Akuapem Twi, Ewe, Hausa, Lingala, Yoruba). <br/>
+  This data has been automatically verse-aligned and filtered for TTS training. <br/>
+  Each <code>.tgz</code> file contains: speech files for individual verses and corresponding transcripts for each standardized split per language (train, dev, test). Files in each split are grouped into subdirectories by book. <br/>
+  The speech data is distributed as flac files in the original 48kHz mono format; it may be desired to resample for TTS training. <br/>
+</p>
+
+<p>
+  For more information, see the:
+  <ul>
+    <li>[<a href="https://arxiv.org/pdf/2207.03546.pdf">dataset paper</a>] Interspeech 2022 paper describing the corpus and its creation</li>
+    <li>[<a href="https://masakhane-io.github.io/bibleTTS/">project page</a>] Masakhane-io project website with TTS models and samples</li>
+  </ul>
+</p>
+
+<p>
+  <strong>Contact:</strong> <a href='mailto:josh@coqui.ai;didelani@lsv.uni-saarland.de;edresson@coqui.ai;alp.oktem@clearglobal.org;dan_whitenack@sil.org'>josh@coqui.ai, didelani@lsv.uni-saarland.de, edresson@coqui.ai, alp.oktem@clearglobal.org, dan_whitenack@sil.org</a>
+</p>
+
+<p>
+  <strong>Citation:</strong> If you use the BibleTTS corpus in your work, please cite the dataset paper:
+</p>
+
+<pre>
+  @inproceedings{meyer2022bibletts,
+    title={BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus},
+    author={Josh Meyer and David Adelani and Edresson Casanova and Alp {\"O}ktem and Daniel Whitenack and Julian Weber and Salomon Kabongo Kabenamualu and Elizabeth Salesky and Iroro Orife and Colin Leong and Perez Ogayo and Chris Chinenye Emezue and Jonathan Mukiibi and Salomey Osei and Apelete Agbolo and Victor Akinode and Bernard Opoku and Olanrewaju Samuel and Jesujoba Alabi and Shamsuddeen Hassan Muhammad},
+    booktitle={Interspeech},
+    publisher = {{ISCA}},
+    year={2022},
+    url={https://arxiv.org/pdf/2207.03546.pdf}
+  }
+</pre>
