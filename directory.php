@@ -29,9 +29,8 @@ require_once $_SERVER['DOCUMENT_ROOT'] . '/include/resource.php';
           <div class = "contact_info">
 <?php
 // <div class ="contactTitle">Contact</div>
-// <a href=mailto:dpovey@gmail.com> dpovey@gmail.com </a>  <br/>
-// Phone: 425 247 4129  <br/>
-// (Daniel Povey) <br/>
+// <a href=mailto:jtrmal@gmail.com> jtrmal@gmail.com </a>  <br/>
+// (Jan "Yenda" Trmal) <br/>
 ?>
 
           </div>
