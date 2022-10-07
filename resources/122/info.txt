@@ -1,0 +1,7 @@
+name: Kashmiri Data Corpus
+summary: An audio and text corpus for the Kashmiri language
+category: speech
+license: GPL-3.0-or-later
+file: kashmiri.tar.gz  Kashmiri speech and transcripts
+alternate_url:
+alternate_url:

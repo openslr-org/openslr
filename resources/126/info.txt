@@ -1,0 +1,6 @@
+name: IISc-MILE Kannada ASR Corpus
+summary: Kannada transcribed speech corpus for ASR
+category: speech
+license: Attribution 2.0 Generic (CC BY 2.0)
+file: mile_kannada_train.tar.gz  Kannada speech and transcripts for training
+file: mile_kannada_test.tar.gz  Kannada speech and transcripts for testing

@@ -1,0 +1,5 @@
+name: TIBMD@MUC speech data set
+summary: A Tibetan multi-dialect speech data ( 84.33 hours)
+category: speech
+license: CC BY-SA 4.0
+file: Tibetan_speech_data.tgz

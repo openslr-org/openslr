@@ -1,0 +1,9 @@
+name: Multilingual and code-switching ASR Challenge Dataset - sub-task2
+summary: Datasets for sub-task2 in Multilingual and code-switching ASR challenges for low resource Indian languages - MUCS 2021 (https://navana-tech.github.io/MUCS2021/)
+category: speech
+license: CC BY-SA 4.0
+file: Hindi-English_train.tar.gz  Hindi-English code-switched train speech and transcripts
+file: Hindi-English_test.tar.gz  Hindi-English code-switched test speech and transcripts
+file: Bengali-English_train.tar.gz  Bengali-English code-switched train speech and transcripts
+file: Bengali-English_test.tar.gz  Bengali-English code-switched test speech and transcripts
+file: subtask2_blindtest_wReadme.tar.gz sub-task2 Blind Test set and transcripts

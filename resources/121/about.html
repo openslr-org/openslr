@@ -1,0 +1,42 @@
+The WenetSpeech corpus is a 10000+ hours multi-domain transcribed Mandarin Speech Corpus collected from YouTube and Podcast. Optical character recognition (OCR) and automatic speech recognition (ASR) techniques are adopted to label each YouTube and Podcast recording, respectively. To improve the quality of the corpus, we use a novel end-to-end label error detection method to further validate and filter the data.
+<p>
+
+<ul>
+    <li>10000+ hours high-label data: with confidence &gt;= 0.95, for supervised training, etc.</li>
+    <li> 2400+ hours weak-label data: with 0.6 &lt;= confidence &lt; 0.95, for semi-supervisied or noisy training, etc.</li>
+    <li>~10000 hours unlabeled  data: with confidence &lt; 0.6, for unsupervised training, etc.</li>
+    <li>22400+ hours audio in  total: consists of both labeled and unlabeled data, for unsupervised training or pretraining, etc.</li>
+</ul>
+<h4>Diversity</h4>
+The high-label data of Wenetspeech can be mainly classified into 10 categories according to speaking styles and spoken scenarios:
+<ul>
+    <li>drama (43.36%)</li>
+    <li>reading (11.1%)</li>
+    <li>interview (9.38%)</li>
+    <li>news (8.68%)</li>
+    <li>variety (8.27%)</li>
+    <li>documentary (4.77%)</li>
+    <li>talk (2.94%)</li>
+    <li>audiobook (2.51%)</li>
+    <li>commentary (2.48%)</li>
+    <li>others (6.51%)</li>
+</ul>
+
+<h4>Citations</h4>
+You can cite the data using the following BibTeX entry:
+<pre>
+@inproceedings{zhang2022wenetspeech,
+  title={WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition},
+  author={Zhang, Binbin and Lv, Hang and Guo, Pengcheng and Shao, Qijie and Yang, Chao and Xie, Lei and Xu, Xin and Bu, Hui and Chen, Xiaoyu and Zeng, Chenchen and Wu, Di and Peng, Zhendong},
+  booktitle={International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2022},
+  organization={IEEE}
+}
+</pre>
+
+<h4>Download</h4>
+To download the corpus, please go to  <a href="https://wenet.org.cn/WenetSpeech">https://wenet.org.cn/WenetSpeech</a>, and fill out the google form to receive
+the password and follow the instructions to download. The  <a href="https://github.com/wenet-e2e/WenetSpeech"> github page</a>, provides the toolkits for downloading.
+
+<br/>
+<br/>

@@ -1,0 +1,6 @@
+name: Basic LAnguage Resource Kit 1.0 for Faroese
+summary: Faroese Speech corpus approved for release in July 2022
+category: Speech
+license: CC BY 4.0
+file: BLARK_1.0_update.tar.gz  Faroese speech and transcripts, lexicon and background text
+alternate_url: https://maltokni.fo/en/resources

@@ -1,0 +1,8 @@
+root@www:/var/www/openslr# cat /var/www/openslr/resources/6/info.txt
+name: SEOUL CORPUS
+summary: The Korean Corpus of Spontaneous Speech (aka, Seoul Corpus), created from the NRF(Korea)-funded project
+category: speech
+license: Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)
+file: readme.tgz  readme, manual, search script, sample screenshot, journal paper
+file: label.tgz  Praat TextGrid label files
+file: sound.tgz  flac sound files

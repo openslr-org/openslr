@@ -1,0 +1,16 @@
+name: Samrómur Unverified 22.07
+summary: Samrómur Icelandic Speech, 2,200 hours of mostly unverified data approved for release in July 2022
+category: speech
+license: CC by 4.0
+file: samromur_unverified_22.07.zip icelandic speech and metadata files
+file: samromur_unverified_22.07.z01 part 2
+file: samromur_unverified_22.07.z02 part 3
+file: samromur_unverified_22.07.z03 part 4 
+file: samromur_unverified_22.07.z04 part 5
+file: samromur_unverified_22.07.z05 part 6
+file: samromur_unverified_22.07.z06 part 7
+file: samromur_unverified_22.07.z07 part 8
+file: samromur_unverified_22.07.z08 part 9
+file: samromur_unverified_22.07.z09 part 10
+file: samromur_unverified_22.07.z10 part 11
+file: samromur_unverified_md5sums.txt checksums to verify download

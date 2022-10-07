@@ -1,0 +1,6 @@
+name: Thorsten Müller (German Emotional-TTS dataset)
+summary: Free EMOTIONAL single german speaker dataset (Neutral, Disgusted, Angry, Amused, Surprised, Sleepy, Drunk, Whispering) by Thorsten Müller (voice) and Dominik Kreutz (audio optimization) for TTS training
+category: speech
+license: Creative Commons (CC0) Licence
+file: thorsten-emotional_v02.tgz  Thorsten emotional German speech and transcripts
+alternate_url: https://github.com/thorstenMueller/deep-learning-german-tts/ Thorsten - Open German Voice Dataset

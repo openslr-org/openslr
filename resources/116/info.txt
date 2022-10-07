@@ -1,0 +1,5 @@
+name: Samrómur Queries 21.12
+summary: Samrómur Icelandic Speech corpus focused on queries and approved for release in December 2021
+category: speech
+license: CC by 4.0
+file: samromur_queries_21.12.zip icelandic speech and metadata files

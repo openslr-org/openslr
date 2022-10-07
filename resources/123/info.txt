@@ -1,0 +1,6 @@
+name: MAGICDATA Mandarin Chinese Conversational Speech Corpus
+summary: The corpus by Magic Data Technology Co., Ltd. , containing 180 hours of rich annotated Mandarin spontaneous conversational speech data.
+category: speech
+license: Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)
+file: MagicData-RAMC.tar.gz  All speech and annotations
+

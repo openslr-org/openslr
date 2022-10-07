@@ -1,0 +1,9 @@
+name: WenetSpeech
+summary: A 10000+ Hours Multi-Domain Mandarin Corpus for Speech Recognition
+category: Speech
+license: Creative Commons Attribution 4.0 International License (CC BY 4.0)
+alternate_url: https://wenet.org.cn/WenetSpeech/ WenetSpeech Main Page/Project Home
+alternate_url: https://github.com/wenet-e2e/WenetSpeech WenetSpeech Github Page
+alternate_url: https://arxiv.org/abs/2110.03370 WenetSpeech Introduciton Paper: WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition
+
+

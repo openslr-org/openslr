@@ -1,0 +1,7 @@
+name: HI-MIA-CW
+summary: A Free Mandarin Supplemental Speech Corpus to HI-MIA Database, whose contents are negative samples for wake-up words "Hi, Mia".
+category: speech
+license: CC BY-SA 4.0
+file: data.tgz Speech files
+file: resource.tgz Speaker info and transcriptions
+alternate_url: http://aishelltech.com/wakeup_data
