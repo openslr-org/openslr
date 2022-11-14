@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Quran Speech to Text Dataset</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+<body>
+    <h1>Quran Speech to Text Dataset</h1>
+    <p>
+        The dataset is structured as the following:
+        <br>        <br>
+
+
+audio_data/<br>
+&nbsp;&nbsp;reader_1/        <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;001001.mp3 (surah 1, ayah 1)        <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;001002.mp3        <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...        <br>
+
+
+&nbsp;&nbsp;reader_2/        <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;001001.mp3        <br>
+
+&nbsp;&nbsp;&nbsp; ... <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 114006.mp3 (surah 114, ayah 6)        <br>
+
+
+&nbsp;&nbsp; reader_3/        <br>
+
+        ...        <br>
+
+
+    <br>        <br>
+
+
+
+    Note, that not all readers have all the 6236 ayat of Quran, some may not even have all the 114 surahs. <br/>
+    <br/>
+The text of the surahs is in the all_ayat.json file. all_ayat.json file has all the surahs and ayas in Arabic text. <br/>
+json key format is "1_1" for surah 1 ayah 1,  or "114_2" (surah 114 ayah 2). In other words, "xxx_yyy" where x is surah number and y is ayah number up to 3 digits long.<br/>
+
+{"tafsir":{"1_1":{"text":"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"},"1_2":{"text":"الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"},"1_3":{"text":"الرَّحْمَٰنِ الرَّحِيمِ"},"1_4":{"text":"مَالِكِ يَوْمِ الدِّينِ"},"1_5":{"text":"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"},"1_6":{"text":"اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ"}, ...}
+</p>
+
+<h2> Some extra machine learning input convenience notes: </h2>
+
+<p>
+audo_list.txt has a list of all mp3 files found in the audio_data directory, transcripts.tsv is a tab-separated-value file that can be used as an input to a machine learning program. It has the format Path-Duration(in seconds) -Arabic text.
+</p>
+</body>
+</html>
