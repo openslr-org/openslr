@@ -24,4 +24,4 @@ file: mtedx_it-es.tgz  Italian speech and transcripts with aligned Spanish trans
 file: mtedx_ru-en.tgz  Russian speech and transcripts with aligned English translations
 file: mtedx_el-en.tgz  Greek speech and transcripts with aligned English translations
 file: mtedx_iwslt2021.tgz  Test sets for IWSLT'21 Multilingual task
-file: MTEDx-french-talks-gender-annotation.csv  Gender annotations for French talks, contributed by Laurent Besacier
+file: MTEDx-french-talks-gender-annotation.csv  Gender annotations for French talks, contributed by Laurent Besacier and Marcely Zanon Boito
