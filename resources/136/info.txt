@@ -1,0 +1,9 @@
+name: EMNS
+summary: An emotive single-speaker dataset for narrative storytelling. EMNS is dataset containing transcriptions, emotion, emotion intensity, and description of acted speech.
+category: speech, text-to-speech, automatic speech recognition
+license: Apache 2.0
+file: raw_webm.tar.xz Unprocessed raw recording
+file: raw_alignment.tar.xz   Alignment for raw audio recordings 
+file: cleaned_alignment.tar.xz   Trimed silance from start and end of recording. 
+file: cleaned_webm.tar.xz   Alignment for processed audio recordings 
+file: metadata.csv  Pipe seporated csv, containing transcription, description, emotion, emotion intensity and path to audio recording.
