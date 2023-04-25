@@ -1,0 +1,41 @@
+name: Audiocite.net
+summary: Spoken dataset of books read in French, initially collected from audiocite.net by the <a href="https://lig-getalp.imag.fr/">GETALP team</a> for the <a href="http://lebenchmark.com/">LeBenchmark project</a>.
+category: speech
+license: Depends on each audio file (CC BY (Public domain) or CC BY SA (Share alike) or CC BY ND (No modification) or CC BY NC (No commercial use) or combination of the above)
+file: audiocite.net_md5.txt Checksums
+file: audiocite.net_0.zip Metadata and Scripts Files
+file: audiocite.net_1.zip mp3 files
+file: audiocite.net_2.zip mp3 files
+file: audiocite.net_3.zip mp3 files
+file: audiocite.net_4.zip mp3 files
+file: audiocite.net_5.zip mp3 files
+file: audiocite.net_6.zip mp3 files
+file: audiocite.net_7.zip mp3 files
+file: audiocite.net_8.zip mp3 files
+file: audiocite.net_9.zip mp3 files
+file: audiocite.net_10.zip mp3 files
+file: audiocite.net_11.zip mp3 files
+file: audiocite.net_12.zip mp3 files
+file: audiocite.net_13.zip mp3 files
+file: audiocite.net_14.zip mp3 files
+file: audiocite.net_15.zip mp3 files
+file: audiocite.net_16.zip mp3 files
+file: audiocite.net_17.zip mp3 files
+file: audiocite.net_18.zip mp3 files
+file: audiocite.net_19.zip mp3 files
+file: audiocite.net_20.zip mp3 files
+file: audiocite.net_21.zip mp3 files
+file: audiocite.net_22.zip mp3 files
+file: audiocite.net_23.zip mp3 files
+file: audiocite.net_24.zip mp3 files
+file: audiocite.net_25.zip mp3 files
+file: audiocite.net_26.zip mp3 files
+file: audiocite.net_27.zip mp3 files
+file: audiocite.net_28.zip mp3 files
+file: audiocite.net_29.zip mp3 files
+file: audiocite.net_30.zip mp3 files
+file: audiocite.net_31.zip mp3 files
+file: audiocite.net_32.zip mp3 files
+file: audiocite.net_33.zip mp3 files
+file: audiocite.net_34.zip mp3 files
+
