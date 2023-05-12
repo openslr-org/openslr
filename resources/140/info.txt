@@ -1,0 +1,10 @@
+root@www:/var/www/openslr# cat /var/www/openslr/resources/6/info.txt
+name: Kazakh Speech Dataset (KSD)
+summary: High-quality open source Kazakh speech corpus developed by the Department of Artificial Intelligence and Big Data of Al-Farabi Kazakh National University (554 hours)
+category: speech
+license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
+file: audio2.zip  Kazakh speech and transcripts (127.13 hours)
+file: audio3.zip  Kazakh speech and transcripts (142 hours)
+file: audio4.zip  Kazakh speech and transcripts (147 hours)
+file: audio5.zip  Kazakh speech and transcripts (137.98 hours)
+file: checksum.md5 md5sums of the files
