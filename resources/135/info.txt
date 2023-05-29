@@ -1,0 +1,7 @@
+root@www:/var/www/openslr# cat /var/www/openslr/resources/6/info.txt
+name: Libri-Mixed-Speakers
+summary: English audio of simultaneous speakers derived from LibriTTS
+category: speech
+license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
+file: train.tar.gz  English speech audio and features
+file: test.tar.gz  English speech audio and features
