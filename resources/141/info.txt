@@ -1,0 +1,13 @@
+name: LibriTTS-R
+summary: Sound quality improved version of the LibriTTS corpus which is a large-scale corpus of English speech designed for TTS use
+category: Speech
+license: CC BY 4.0
+file: doc.tar.gz Documents of LibriTTS-R
+file: dev_clean.tar.gz Development set, clean speech
+file: dev_other.tar.gz Development set, more challenging speech
+file: test_clean.tar.gz Test set, "clean" speech
+file: test_other.tar.gz Test set, "other" speech 
+file: train_clean_100.tar.gz Training set derived from the original materials of the train-clean-100 subset of LibriSpeech 
+file: train_clean_360.tar.gz Training set derived from the original materials of the train-clean-360 subset of LibriSpeech
+file: train_other_500.tar.gz Training set derived from the original materials of the train-other-500 subset of LibriSpeech
+file: md5sum.txt Checksums of the individual files
