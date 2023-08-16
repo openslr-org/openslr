@@ -42,6 +42,16 @@ They were recorded by Ana Luz Arteaga, Francisco Javier Correa,
 Juan Manuel Chinea and Silvia Martín, while working for the
 Silbo Gomero Teaching Project (Proyecto de Enseñanza de Silbo Gomero).
 
+You can cite the data using the following BibTeX entry:
+@inproceedings{jakubiak23_interspeech,
+  author={Agata Jakubiak},
+  title={{Whistle-to-text: Automatic recognition of the Silbo Gomero whistled language}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={3402--3406},
+  doi={10.21437/Interspeech.2023-989}
+}
+
 ---------------------------------------------------------------------------------
 Licensing
 ---------------------------------------------------------------------------------
