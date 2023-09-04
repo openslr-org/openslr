@@ -6,3 +6,4 @@ dbc0959d8bdb6d52200595cabc9995ae  test_other.tar.gz
 6df668d8f5f33e70876bfa33862ad02b  train_clean_100.tar.gz
 382eb3e64394b3da6a559f864339b22c  train_clean_360.tar.gz
 a37a8e9f4fe79d20601639bf23d1add8  train_other_500.tar.gz
+ea06d1e7690eab94d56919bc783c4a03  libritts_r_failed_speech_restoration_examples.tar
