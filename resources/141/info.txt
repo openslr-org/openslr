@@ -10,6 +10,6 @@ file: test_other.tar.gz Test set, "other" speech
 file: train_clean_100.tar.gz Training set derived from the original materials of the train-clean-100 subset of LibriSpeech 
 file: train_clean_360.tar.gz Training set derived from the original materials of the train-clean-360 subset of LibriSpeech
 file: train_other_500.tar.gz Training set derived from the original materials of the train-other-500 subset of LibriSpeech
-file: libritts_r_failed_speech_restoration_examples.tar Lists of files where speech restoration failed
+file: libritts_r_failed_speech_restoration_examples.tar.gz Lists of files where speech restoration failed
 file: md5sum.txt Checksums of the individual files
 
