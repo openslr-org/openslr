@@ -1,0 +1,5 @@
+name: LibriSpeech-PC
+summary: LibriSpeech text with Punctuation and Capitalization
+category: text
+license: CC BY 4.0
+file: manifests.tar.gz  Manifest files that match original LibriSpeech splits
