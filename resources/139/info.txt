@@ -1,5 +1,5 @@
 name: Audiocite.net
-summary: Spoken dataset of books read in French, initially collected from audiocite.net by the <a href="https://lig-getalp.imag.fr/">GETALP team</a> for the <a href="http://lebenchmark.com/">LeBenchmark project</a>.
+summary:  Spoken dataset of books read in French, initially collected from <a href="https://www.audiocite.net/">audiocite.net</a> by the <a href="https://lig-getalp.imag.fr/">GETALP team</a> for the <a href="http://lebenchmark.com/">LeBenchmark project</a>.
 category: speech
 license: Depends on each audio file (CC BY (Public domain) or CC BY SA (Share alike) or CC BY ND (No modification) or CC BY NC (No commercial use) or combination of the above)
 file: audiocite.net_md5.txt Checksums
