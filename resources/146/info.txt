@@ -1,0 +1,13 @@
+name: CML-TTS Dataset
+summary: CML-TTS: A Multilingual Dataset for Speech Synthesis in Low-Resource Languages
+category: speech
+license: CC-BY 4.0 license
+file: cml_tts_dataset_dutch_v0.1.tar.bz  Dutch speech and transcripts
+file: cml_tts_dataset_french_v0.1.tar.bz  French speech and transcripts
+file: cml_tts_dataset_german_v0.1.tar.bz  German speech and transcripts
+file: cml_tts_dataset_italian_v0.1.tar.bz  Italian speech and transcripts
+file: cml_tts_dataset_polish_v0.1.tar.bz  Polish speech and transcripts
+file: cml_tts_dataset_portuguese_v0.1.tar.bz  Portuguese speech and transcripts
+file: cml_tts_dataset_spanish_v0.1.tar.bz  Spanish speech and transcripts
+file: cml_tts_dataset_segments_v0.1.tar.bz Segments informations
+file: cml_tts_dataset.md5 Checksum of the files above
