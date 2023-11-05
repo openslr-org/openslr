@@ -1,0 +1,6 @@
+name: XBMU-AMDO31
+summary: Tibetan Amdo dialect speech data from NLIT, Northwest Minzu University
+category: speech
+license: CC BY-SA 4.0
+file: xbmu_amdo31.tar.gz  Tibetan Amdo dialect speech and transcripts
+

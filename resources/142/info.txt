@@ -1,0 +1,6 @@
+name: The MC Speech Dataset
+summary: Free speech dataset consisting of 24018 short audio clips of a single speaker reading sentences in Polish
+category: speech
+license: CC0 1.0
+file: mcspeech.tar.gz
+alternate_url: https://github.com/czyzi0/the-mc-speech-dataset

@@ -1,0 +1,8 @@
+name: Silbo Gomero Speech Corpus
+summary: Corpus of the Silbo Gomero whistled language, based on 49 minutes of recordings created by 4 whistlers.
+category: speech
+license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+file: README.txt  Readme file
+file: words.zip	  Single-word clips with transcripts
+file: fragments.zip  Short fragments with transcripts
+file: sentences.zip  Whole sentences with transcripts

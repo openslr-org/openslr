@@ -1,0 +1,23 @@
+This data is derived from the LibriTTS corpus. It contains mixed audio (and audio features extracted) from different speakers and has been used for counting the number of speakers in the audio file. All audio is in English. 
+
+Each audio file contains audio from multiple speakers mixed together, ranging from 1-10 speakers. It is divided into train and test sets. The train set contains 2200 examples per feature across 10 classes (number of simultaneous speakers). The test set contains 8810 examples per feature across 10 classes. There are 15 different features in total. All features are based on: waveform, MFCC, LFCC, magnitude spectrogram, and mel spectrogram. In addition, for each of these features two additional modifications were made: shredding and random reversal (see paper below for more details). The shredding and random reversal was done at the waveform level before the features were extracted. 
+
+<p>
+This work of mixing audio into this new corpus, and applying it to count speakers was supported by 
+the UK Engineering and Physical Sciences Research Council (EPSRC) through the Trustworthy Autonomous 
+Systems Hub (EP/V00784X/1), a Turing AI Acceleration Fellowship on Citizen-Centric AI Systems
+(EP/V022067/1), and by the Southampton Low Carbon Comfort Centre.
+Univesity of Southampton, United Kingdom.
+<p>
+
+You can cite the data using the following BibTeX entry:
+<pre>
+
+@inproceedings{williamsoccupancy23,
+  title={{Privacy-Preserving Occupancy Estimation}},
+  author={Williams, Jennifer and Yazdanpanah, Vahid and Stein, Sebastian},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={To Appear},
+  year={2023},
+}
+</pre>

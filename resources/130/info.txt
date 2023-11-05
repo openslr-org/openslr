@@ -1,0 +1,6 @@
+name: Samrómur L2 22.09
+summary: Samrómur Icelandic Speech, 150 hours from people with Icelandic as a second language. Approved for release in July 2022
+category: speech
+license: CC by 4.0
+file: samromur_L2_22.09.zip icelandic speech, metadata and md5 files
+file: README.txt Readme file

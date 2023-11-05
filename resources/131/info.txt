@@ -1,0 +1,6 @@
+name: Samrómur Mimic 22.09
+summary: Samrómur Icelandic Speech, 66.7 hours of speech where users mimic utterances. Approved in September 2022
+category: speech
+license: CC by 4.0
+file: samromur_mimic_22.09.zip icelandic speech, metadata and md5 files
+file: README.txt Readme file

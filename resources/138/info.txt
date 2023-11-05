@@ -1,0 +1,5 @@
+name: SHALCAS22A
+summary: A Chinese Mandarin corpus by Shanghai Acoustics Laboratory, CAS and Wuxi Sandu Intelligent Technology Co., Ltd.
+category: speech
+license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+file: SHALCAS22A.tgz  Corpus

@@ -1,0 +1,6 @@
+name: Mohammed
+summary: Arabic speech to text Quran data
+category: speech
+license: MIT
+alternate_url: kaggle.com/datasets/bigguyubuntu/quran-ayat-speech-to-text
+file: Quran_Speech_Dataset.tar.xz
