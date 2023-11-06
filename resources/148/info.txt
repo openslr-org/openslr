@@ -1,0 +1,11 @@
+name: Tepetzintla Zacatlan Nahuatl Endangered Language
+summary: Tepetzintla Zacatlan Nahuatl Speech
+category: speech
+license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+file: info.pdf Document with information about this corpus
+file: Tepetzintla.zip Speech data of Tepetzintla Zacatlan Nahuatl, recorded in 48kHz, 16-bit
+file: Tepetzintla-Zacatlan-Nahuatl_Collaborators.txt List of all native speaker collaborators for this corpus
+file: Tepetzintla-Zacatlán-Nahuatl_File-list.txt List of all filenames with duration
+file: Plant-collections_Tepetzintla.csv  List of all plant observations with observation number, family, scientific name, date collected, name of person who identified the plant
+file: Plant-Labels_Tepetzintla-Zacatlan-ethnobotanical-field-trips_2023-10-22.pdf Labels for the 81 plant observations the audio of which is included in this corpus
+
