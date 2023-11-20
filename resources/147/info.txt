@@ -1,5 +1,5 @@
 name: Veracruz Orizaba Nahuatl Endangered Language
-summary: Veracruz Orizaba Nahuatl Speech
+summary: Audio corpus of Orizaba (Veracruz) Nahuatl speech (Glottocode: oriz1235; ISO 639-3: nlv)
 category: speech
 license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 file: info.pdf Document with information about this corpus
