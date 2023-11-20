@@ -1,5 +1,5 @@
 name: Tepetzintla Zacatlan Nahuatl Endangered Language
-summary: Tepetzintla Zacatlan Nahuatl Speech
+summary: Audio corpus of Zacatlán-Ahuacatlán-Tepetzintla (Puebla) Nahuatl speech (Glottocode: zaca1241; ISO 639-3: nhi)
 category: speech
 license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 file: info.pdf Document with information about this corpus
