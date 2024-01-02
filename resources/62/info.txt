@@ -2,6 +2,4 @@ name: aidatatang_200zh
 summary: A Chinese Mandarin speech corpus by Beijing DataTang Technology Co., Ltd, containing 200 hours of speech data from 600 speakers. The transcription accuracy for each sentence is larger than 98%.
 category: speech
 license: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-file: aidatatang_200zh.tgz Corpus
-alternate_url: https://www.datatang.com/opensource
 
