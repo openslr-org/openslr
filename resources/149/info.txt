@@ -1,0 +1,6 @@
+name: Tibetan Greetings
+summary: Selected Tibetan greetings speech data  categorized according to the dialectal region.
+category: speech
+license: CC BY-SA 4.0
+file: Tibetan_greeting.tgz Corpus
+
