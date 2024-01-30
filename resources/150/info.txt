@@ -1,0 +1,10 @@
+name: CHiME-6
+summary: English multi-channel far field meeting data used in the CHiME-6 Challenge. It is derived from CHiME-5 by fixing some array synchronization errors. 
+category: speech
+license: Attribution-ShareAlike 4.0 (CC BY-SA 4.0 International)
+file: CHiME6_train.tar.gz  CHiME-6 training portion
+file: CHiME6_dev.tar.gz  CHiME-6 development portion
+file: CHiME6_eval.tar.gz  CHiME-6 evaluation portion
+file: CHiME6_transcriptions.tar.gz  CHiME-6 JSON annotation transcriptions
+file: CHiME6_floorplans.tar.gz  CHiME-6 floorplans for each session
+file: LICENSE.txt  CHiME-5 CC BY-SA 4.0 license
