@@ -20,29 +20,31 @@
                 RewriteRule ^([0-9]+)$ directory.php?id=$1
                 RewriteRule ^([0-9]+)/$ directory.php?id=$1
                 RewriteRule ^([0-9]+)/index.html$ directory.php?id=$1
-       
+
                 GeoIPEnable On
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(CA|US)$
-                RewriteRule ^(resources/.*)$ https://us.openslr.org/$1 [L]
+                RewriteRule ^(resources/.*)$ http://openslr.elda.org/$1 [L]
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(EU|RU|IN)$
-                RewriteRule ^(resources/.*)$ https://openslr.elda.org/$1 [L]
+                RewriteRule ^(resources/.*)$ http://openslr.elda.org/$1 [L]
                 RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(CN)$
-                RewriteRule ^(resources/.*)$ https://openslr.magicdatatech.com/$1 [L]
+                RewriteRule ^(resources/.*)$ http://openslr.elda.org/$1 [L]
+                RewriteCond %{ENV:GEOIP_COUNTRY_CODE} ^(.*)$
+                RewriteRule ^(resources/.*)$ http://openslr.trmal.net/$1 [L]
     </Directory>
-
 
     <Directory /var/www/openslr/.git>
-               deny from all
+           deny from all
     </Directory>
+
     <Directory /var/www/openslr/config>
-               deny from all
+           deny from all
     </Directory>
 
 
     Alias "/awstats" "/var/lib/awstats"
     <Directory "/var/lib/awstats" >
-               Order allow,deny
-               Allow from all
+           Order allow,deny
+           Allow from all
     </Directory>
 
     ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
@@ -84,7 +86,7 @@
                 AllowOverride All
                 Order allow,deny
                 allow from all
-    
+
                 RewriteEngine on
                 #RewriteBase /var/www/openslr
                 RewriteRule ^([0-9]+)$ directory.php?id=$1
@@ -99,7 +101,6 @@
         <Directory /var/www/openslr/config>
                 deny from all
         </Directory>
-
 
         ErrorLog ${APACHE_LOG_DIR}/error.openslr.log
         LogLevel warn
