@@ -1,0 +1,7 @@
+name: Kallaama
+summary: Wolof, Pulaar and Sereer data
+category: speech
+license: Creative Commons Attribution 4.0 International (CC-BY-4.0)
+file: speech_dataset_wol.tar.gz  Wolof speech and transcripts
+file: speech_dataset_fuc.tar.gz  Pulaar speech and transcripts
+file: speech_dataset_srr.tar.gz  Sereer speech and transcripts
