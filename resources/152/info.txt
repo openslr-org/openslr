@@ -1,0 +1,21 @@
+root@www:/var/www/openslr# cat /var/openslr/resources/6/info.txt
+name: Pragmatic Similarity Judgments
+summary:  Judgments of perceived similarity between utterance pairs from dialogs, in English and Spanish.
+category: speech
+license: public domain (CC0 1.0 Universal)
+file: judgment-data.tgz the spreadsheets of the human ratings of pragmatic similarity for each utterance pair 
+file: metadata.tgz  various metadata
+file: EN-stimuli-reordered.tgz  the audio stimuli that the subjects heard, each a pair of utterances (English)
+file: EN-seeds.tgz  the first members of each pair, as separate files  (English)
+file: EN-reenactments.tgz  the second members of each pair, as separate files  (English)
+file: EN-full-conversations.tgz  the source conversations for the seeds and reenactments  (English)
+file: EN-kids-stimuli.tgz  a handful of utterance pairs for children   (English)
+file: ES-stimuli-reordered.tgz  the audio stimuli that the subjects heard, each a pair of utterances (Spanish)
+file: ES-seeds.tgz  the first members of each pair, as separate files  (Spanish)
+file: ES-reenactments.tgz  the second members of each pair, as separate files  (Spanish)
+file: ES-full-conversations.tgz  the source conversations for the seeds and reenactments  (Spanish)
+file: ES-kids-stimuli.tgz  a handful of utterance pairs for children   (Spanish)
+
+
+
+alternate_url: https://github.com/divettemarco/PragSim   all data 
