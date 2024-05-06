@@ -1,0 +1,5 @@
+name: Yerevan City Magazine
+summary: A Free Armenian News Text Corpus, provided by Qaghaki Amsagir LLC (Yerevan City Magazine, evnmag.com)
+category: Text
+license: CC BY-SA 4.0
+file: data_evnmag.tgz  Armenian texts
