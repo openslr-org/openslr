@@ -1,0 +1,6 @@
+name: ArmenianGrqaserAudioBooks
+summary: Cutted, Segmented, Processed (speech, text) paired data, derived from the Grqaser.org audiobooks
+category: speech
+license: Creative Commons Attribution Share Alike 4.0 (CC BY-SA 4.0)
+file: grqaser_audiobooks.tgz  Armenian speech and transcripts
+alternate_url: https://grqaser.org Source for original audiobooks (raw data)
