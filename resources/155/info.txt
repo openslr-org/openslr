@@ -1,0 +1,5 @@
+name: SBCSAE
+summary: The Santa Barbara Corpus of Spoken American English, mirrored from UCSB
+category: speech
+license: Creative Commons Attribution-No Derivative Works 3.0 United States (CC BY-ND 3.0 US)
+file: SBCSAE.tar.gz  The complete corpus
