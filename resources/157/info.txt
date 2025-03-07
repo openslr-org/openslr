@@ -1,5 +1,5 @@
 name: Sagalee
 summary: Automatic Speech Recognition Dataset for Oromo Language
 category: speech
-license:Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 file: sagalee.7z  speech and transcripts
