@@ -1,0 +1,6 @@
+name: SMIIP-TV dataset
+summary: A short-term time-varying speaker verificaition dataset
+category: speech
+license: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0 US)
+file: SMIIP-TV_v2.0.tar.gz  dataset and meta information for SMIIP-TV dataset
+alternate_url: https://drive.google.com/file/d/1cOGX6zptbfMbdYcpWYVrt9LTXvL0Y47A/view?usp=drive_link SMIIP-TV dataset
