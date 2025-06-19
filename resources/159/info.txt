@@ -1,0 +1,10 @@
+name: AISHELL-5
+summary: The First Open-Source In-Car Multi-Channel Multi-Speaker Speech Dataset for Automatic Speech Diarization and Recognition, provided by Beijing AISHELL Technology Co.,Ltd.
+category: Speech
+license: CC BY-SA 4.0
+file: train.tar.gz Training set, far-field and near-field microphone speech and transcripts
+file: Dev.tar.gz Development set
+file: Eval1.tar.gz Evaluation set
+file: Eval2.tar.gz Evaluation set
+file: noise.tar.gz Noise set 
+alternate_url: https://www.aishelltech.com/AISHELL_5. Full description from the company website.
