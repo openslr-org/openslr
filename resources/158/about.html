@@ -1,0 +1,48 @@
+<h2>NICT-Tib1: Lhasa-Tibetan Read-Speech Corpus (v1.0, released 2024-08-27)</h2>
+
+<p>
+NICT-Tib1 is an <strong>open, CC BY 4.0-licensed</strong> audio corpus intended for developing
+and benchmarking automatic speech recognition (ASR) systems for Tibetan.
+It contains <b>33.5 hours</b> of clean read speech recorded in studio conditions
+from <b>20 native speakers</b> of the Lhasa dialect (8 male, 12 female, aged 15–30).
+Speakers read news manuscripts aloud; each utterance is provided with a
+Kaldi-format transcription (<code>wav.scp</code>, <code>label.txt</code>) so the data
+can serve both as <em>training</em> and <em>test</em> material.
+</p>
+
+<h3>Package contents</h3>
+<ul>
+  <li><code>Tibetan.zip</code> (~3 GB)
+    <ul>
+      <li>16-kHz, 16-bit mono <code>.wav</code> files (one per utterance)</li>
+      <li><code>wav.scp</code> – Kaldi mapping of utterance IDs to audio paths</li>
+      <li><code>label.txt</code> – Kaldi transcription file (UTF-8 Tibetan script)</li>
+      <li>Per-speaker directory structure: <code>data/&lt;spk-id&gt;/&lt;session-id&gt;/</code></li>
+      <li>README (collection protocol, microphone setup, segment duration statistics)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Licence</h3>
+<p>
+All audio and transcripts are distributed under the
+<a href="https://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International licence</a>.
+You are free to use, share and adapt the material provided appropriate credit is given.
+</p>
+
+<h3>Citation</h3>
+<p>Please cite the following paper when using the corpus:</p>
+<pre>
+@inproceedings{nict-tib1,
+  title     = {{NICT-Tib1: A Public Speech Corpus of Lhasa Dialect for Benchmarking Tibetan Language Speech Recognition Systems}},
+  author    = {Kak Soky and Zhuo Gong and Sheng Li},
+  booktitle = {Proc. O-COCOSDA},
+  pages     = {1--5},
+  year      = {2022},
+  doi       = {10.1109/O-COCOSDA202257103.2022.9997917}
+}
+</pre>
+
+<p>Questions and feedback can be sent to the corpus maintainers via the contact
+information on the <a href="https://ast-astrec.nict.go.jp/en/release/NICT-Tib1/">NICT release page</a>.</p>
+

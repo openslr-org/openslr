@@ -1,0 +1,6 @@
+name: NICT-Tib1
+summary: 33.5-hour Lhasa-Tibetan read-speech corpus with Kaldi-style transcripts
+category: speech
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+file: tibetan.zip  Tibetan read speech audio + transcripts (33.5 h, 20 speakers)
+alternate_url: https://ast-astrec.nict.go.jp/en/release/NICT-Tib1/  Official release page
