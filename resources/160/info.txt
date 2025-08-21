@@ -1,0 +1,11 @@
+name: Armenian Speech Crowdsourcing Data
+summary: 70 hours of Armenian speech collected via crowdsourcing with Toloka and texts from Yerevan City Magazine.
+category: speech
+license: CC BY 4.0
+
+file: armenian_speech_crowdsourcing_data.tar.gz 70 hours of Armenian speech, transcriptions and metadata
+
+alternate_url: https://www.openslr.org/153/ Yerevan City Magazine corpus
+alternate_url: https://evnmag.com/ Yerevan City Magazine
+alternate_url: https://toloka.ai Toloka crowdsourcing platform
+
