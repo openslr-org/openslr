@@ -1,0 +1,7 @@
+name: Emozionalmente
+summary: A crowdsourced Italian emotional speech corpus
+category: speech
+license: Creative Commons Attribution 4.0 International
+alternate_url: https://zenodo.org/records/12616095 Zenodo repository
+alternate_url: https://ieeexplore.ieee.org/abstract/document/10879457 IEEE publication
+alternate_url: https://colab.research.google.com/drive/1P2qHb7mwYZSPxbQZ07S7NDH-2vWv38YS?usp=sharing Example Colab demo for fine-tuning
