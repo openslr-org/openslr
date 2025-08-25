@@ -71,12 +71,14 @@ if ($ok) {
                 $file_url="https://openslr.magicdatatech.com/resources/$id/$file";
             } elseif ($hostname == "resources.elda.org") {
                 $file_url="https://openslr.elda.org/resources/$id/$file";
+            } elseif ($hostname == "openslr.trmal.net") {
+                $file_url="https://openslr.trmal.net/resources/$id/$file";
             } else {
-                $file_url="https://www.openslr.org/resources/$id/$file";
+                $file_url="https://openslr.trmal.net/resources/$id/$file";
             }
             print "<a href=\"$file_url\"> $file </a> [$size] &nbsp; ($comment) &nbsp;  Mirrors: \n";
-            $file_url="https://us.openslr.org/resources/$id/$file";
-            print "<a href=\"$file_url\"> [US] </a> &nbsp;\n";
+            $file_url="https://openslr.trmal.net/resources/$id/$file";
+            print "<a href=\"$file_url\"> [EU] </a> &nbsp;\n";
             $file_url="https://openslr.elda.org/resources/$id/$file";
             print "<a href=\"$file_url\"> [EU] </a> &nbsp;\n";
             $file_url="https://openslr.magicdatatech.com/resources/$id/$file";

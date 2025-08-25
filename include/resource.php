@@ -10,7 +10,7 @@ class Resource
     public $files = array(); // each element of file-list is an array containing
                                   // the filename, then possibly an explanatory string.
     public $alternate_urls = array(); // each element of alternate_urls is an array
-                                  // containing the alternate URL, then possibly an 
+                                  // containing the alternate URL, then possibly an
                                   // explanatory string.
 
     // Resource describes
@@ -36,7 +36,7 @@ class Resource
      public function get_about_html() {
        $about_html = file_get_contents($this->dir . "/about.html");
        return $about_html; // may be false if not found; calling script will deal with it.
-     } 
+     }
      public function ok () { return ($this->dir !== ''); }
 
      public function get_file_size($file) {
