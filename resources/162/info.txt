@@ -1,0 +1,5 @@
+name: Rasheed Mudasiru
+summary: A 63-minute recording featuring natural conversations among multiple speakers in a realistic acoustic environment, with noticeable background noise. The dataset was created for use in audio forensics, multi-speaker separation, and speech enhancement research as part of an undergraduate project.
+category: Speech / Audio Forensics / Signal Processing
+license: MIT License
+file: audio-for-forensic-and-multi-speaker-separation.zip The corpus archive.
